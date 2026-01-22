@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github banner.gif" alt="GitHub Banner" width="1100" height="350" />
+  <img src="assets/banner.svg" alt="GitHub Banner" width="1100" height="350" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Qudsia82&color=blue)
