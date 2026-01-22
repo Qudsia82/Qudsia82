@@ -1,13 +1,22 @@
 <svg width="900" height="300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#343a40;stop-opacity:1">
         <animate attributeName="stop-color" values="#4a4e69;#6d597a;#4a4e69" dur="8s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" style="stop-color:#495057;stop-opacity:1">
         <animate attributeName="stop-color" values="#6d597a;#9a8c98;#6d597a" dur="8s" repeatCount="indefinite"/>
       </stop>
-    </linearGradient>
+    </linearGradient> -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" style="stop-color:#343a40;stop-opacity:1">
+    <animate attributeName="stop-color" values="#343a40;#6c757d;#343a40" dur="8s" repeatCount="indefinite"/>
+  </stop>
+  <stop offset="100%" style="stop-color:#6c757d;stop-opacity:1">
+    <animate attributeName="stop-color" values="#6c757d;#343a40;#6c757d" dur="8s" repeatCount="indefinite"/>
+  </stop>
+</linearGradient>
+
 
     <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1"/>
